@@ -5,7 +5,7 @@
 주위를 관찰하고 소소한 발견하는 취미가 있습니다.
 
 
-[![gaya8487's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaya8487&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![gaya8487's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaya8487&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
