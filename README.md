@@ -6,18 +6,15 @@
 
 ### 🔨 Skills
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 </div>
-&nbsp
-&nbsp
 
 
 [![gaya8487's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaya8487&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
