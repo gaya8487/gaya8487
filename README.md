@@ -7,8 +7,7 @@
 
 [![gaya8487's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaya8487&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaya8487&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaya8487)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
