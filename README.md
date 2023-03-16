@@ -1,4 +1,11 @@
-### Hi there 👋
+### 안녕하세요! 만들기를 좋아하는 개발자입니다.
+기술과 기술을 사람과 사람을 기술을 이어주는 개발자가 되고 싶습니다.
+주위를 관찰하고 소소한 발견하는 취미가 있습니다.
+
+
+
+
+
 
 <!--
 **gaya8487/gaya8487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
