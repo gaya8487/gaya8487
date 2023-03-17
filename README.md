@@ -1,7 +1,7 @@
 
 👋 About Me
 ---
-안녕하세요! 생각을 구현해 내는 것을 즐기는 개발자입니다. <br>
+안녕하세요! 생각을 구체화하는 것에 흥미가 있는 개발자입니다. <br>
 기술과 기술을, 사람과 사람을 기술을 통해 이어주는 개발자가 되고 싶습니다.<br>
 주위를 관찰하고 소소한 발견하는 취미가 있습니다. 🦉
 
@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 </div>
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaya8487&layout=compact&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 🌟 Activities 🌟
 ---
