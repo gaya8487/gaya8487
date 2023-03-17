@@ -8,15 +8,20 @@
 
 🔨 Skills
 ---
-
+<h3>Platforms & Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a>
-    <br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/></a> 
-    <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/spring-brightgreen?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=Javascript&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>
 </div>
+<h3>Tools
+  
+<br>
+  
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+ </div>
 
 <br>
 
