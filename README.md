@@ -31,7 +31,7 @@
 🌟 Activities 🌟
 ---
 [![gaya8487's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaya8487&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arin487)](https://solved.ac/arin487/)
 
 <!--
 **gaya8487/gaya8487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
