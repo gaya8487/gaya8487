@@ -12,7 +12,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/spring boot-brightgreen?style=for-the-badge&logo=spring boot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=Javascript&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></a>
 </div>
 <h3>Tools
